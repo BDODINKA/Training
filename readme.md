@@ -1,1 +1,2 @@
-<h1>Bootstrap4 base template for site</h1>
+<h1>Название сайта</h1>
+<p> Описание проекта</p>
